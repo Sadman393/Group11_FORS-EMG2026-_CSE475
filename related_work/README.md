@@ -1,5 +1,7 @@
 This folder contains related work documents.
-[FORS-EMG_Papers_Table.pdf](https://github.com/user-attachments/files/30254142/FORS-EMG_Papers_Table.pdf)
+
+[FORS-EMG_Papers_Table.pdf](https://github.com/user-attachments/files/30254900/FORS-EMG_Papers_Table.pdf)
+
 
 
 #Paper-1
