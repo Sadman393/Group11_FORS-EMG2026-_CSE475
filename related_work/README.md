@@ -7,23 +7,27 @@ FORS-EMG dataset paper
 Rumman, Ferdousi, Saha, Hossain, Islam M.J., Ahmad, Reaz, Islam M.R. (2024). "FORS-EMG: A Novel sEMG Dataset for Hand Gesture Recognition Across Multiple Forearm Orientations."
 
 arXiv: arxiv.org/abs/2409.07484
+
 PDF: arxiv.org/pdf/2409.07484
+
 ResearchGate: researchgate.net/publication/383985391
 
 #Paper-2
-ML-based sEMG Classification (FORS-EMG + Grabmyo)
-(2024). "Machine Learning-based sEMG Signal Classification for Hand Gesture Recognition."
+ML-based sEMG Classification (FORS-EMG + Grabmyo)(2024). "Machine Learning-based sEMG Signal Classification for Hand Gesture Recognition."
 
 arXiv: arxiv.org/abs/2411.15655
+
 HTML version: arxiv.org/html/2411.15655v1
+
 PDF: arxiv.org/pdf/2411.15655
 
 #Paper-3
-ML-based sEMG Classification (FORS-EMG + Grabmyo)
-(2024). "Machine Learning-based sEMG Signal Classification for Hand Gesture Recognition."
+ML-based sEMG Classification (FORS-EMG + Grabmyo)(2024). "Machine Learning-based sEMG Signal Classification for Hand Gesture Recognition."
 
 arXiv: arxiv.org/abs/2411.15655
+
 HTML version: arxiv.org/html/2411.15655v1
+
 PDF: arxiv.org/pdf/2411.15655
 
 #Paper-4
