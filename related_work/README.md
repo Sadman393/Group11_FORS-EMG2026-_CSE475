@@ -1,5 +1,7 @@
 This folder contains related work documents.
 [FORS-EMG_Papers_Table.pdf](https://github.com/user-attachments/files/30254142/FORS-EMG_Papers_Table.pdf)
+
+
 #Paper-1
 FORS-EMG dataset paper
 Rumman, Ferdousi, Saha, Hossain, Islam M.J., Ahmad, Reaz, Islam M.R. (2024). "FORS-EMG: A Novel sEMG Dataset for Hand Gesture Recognition Across Multiple Forearm Orientations."
