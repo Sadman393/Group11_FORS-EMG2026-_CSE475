@@ -34,15 +34,27 @@ pip install torch scipy scikit-learn xgboost lightgbm numpy pandas matplotlib se
 ---
 
 ### Repository Structure
-
-├── Group11_FORS-EMG_task1_eda.ipynb           # EDA
-├── Group11_Fors_EMG_Task2_Baseline.ipynb      # 10 baseline classifiers
-├── Group11_FORS_EMG_Task3_GNN_expolit.ipynb   # GNN, ablation, explainability
-├── Group11_FORS_EMG_Improved_Baseline.ipynb   # TSD features + improved 1D-CNN
-├── Group11_FORS_EMG_GNN_Proposal.docx         # Task 2 GNN proposal
-├── Group11_Task3_Report.docx                  # Task 3 final report
-└── models/gnn_final.pt                        # Saved GNN weights + config
-
+├── Group11_FORS-EMG_task1_eda.ipynb
+│   └── EDA
+│
+├── Group11_Fors_EMG_Task2_Baseline.ipynb
+│   └── 10 baseline classifiers
+│
+├── Group11_FORS_EMG_Task3_GNN_expolit.ipynb
+│   └── GNN + ablation + explainability (SHAP/LIME)
+│
+├── Group11_FORS_EMG_Improved_Baseline.ipynb
+│   └── TSD features + improved 1D-CNN
+│
+├── Group11_FORS_EMG_GNN_Proposal.docx
+│   └── Task 2 GNN proposal
+│
+├── Group11_Task3_Report.docx
+│   └── Task 3 final report
+│
+└── models/
+    └── gnn_final.pt
+       └── Saved GNN weights + configuration
 ---
 
 ### Model & Preprocessing
