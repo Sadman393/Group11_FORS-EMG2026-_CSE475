@@ -121,5 +121,15 @@ Literature reference: Çelik & Can (2026) achieves 74.0% subject-wise with a hyb
 
 ### Technologies
 
-Python · PyTorch · scikit-learn · XGBoost · LightGBM · SciPy · SHAP · LIME · NumPy · Pandas · Matplotlib
-www.kaggle.com
+Python 
+· PyTorch 
+· scikit-learn 
+· XGBoost 
+· LightGBM 
+· SciPy 
+· SHAP 
+· LIME 
+· NumPy 
+· Pandas
+· Matplotlib
+. www.kaggle.com
