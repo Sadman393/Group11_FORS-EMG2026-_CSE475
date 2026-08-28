@@ -34,6 +34,7 @@ pip install torch scipy scikit-learn xgboost lightgbm numpy pandas matplotlib se
 ---
 
 ### Repository Structure
+```text
 ├── Group11_FORS-EMG_task1_eda.ipynb
 │   └── EDA
 │
